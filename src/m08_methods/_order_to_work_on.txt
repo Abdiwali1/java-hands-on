@@ -1,0 +1,12 @@
+we suggest you work on the tasks in this order:
+
+HelloWorld
+FindCube
+Sign
+Next3
+IsEven
+Max
+ProfitOrLoss
+SimpleRoomBooking
+WaterTax
+CharacterSet
