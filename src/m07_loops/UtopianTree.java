@@ -48,34 +48,34 @@ public class UtopianTree extends TestBase {
     @Test
     public void test1() {
         main(null);
-        assertEquals("year 1 growth 1 cm\n" +
-                "tree size: 1\n" +
+        assertEquals("year 1 - growth 1\n" +
+                "tree size: 1 cm\n" +
                 "\n" +
-                "year 2 growth 1 cm\n" +
-                "tree size: 2\n" +
+                "year 2 - growth 1\n" +
+                "tree size: 2 cm\n" +
                 "\n" +
-                "year 3 growth 1 cm\n" +
-                "tree size: 3\n" +
+                "year 3 - growth 1\n" +
+                "tree size: 3 cm\n" +
                 "\n" +
-                "year 4 growth 2 cm\n" +
-                "tree size: 5\n" +
+                "year 4 - growth 2\n" +
+                "tree size: 5 cm\n" +
                 "\n" +
-                "year 5 growth 2 cm\n" +
-                "tree size: 7\n" +
+                "year 5 - growth 2\n" +
+                "tree size: 7 cm\n" +
                 "\n" +
-                "year 6 growth 2 cm\n" +
-                "tree size: 9\n" +
+                "year 6 - growth 2\n" +
+                "tree size: 9 cm\n" +
                 "\n" +
-                "year 7 growth 2 cm\n" +
-                "tree size: 11\n" +
+                "year 7 - growth 2\n" +
+                "tree size: 11 cm\n" +
                 "\n" +
-                "year 8 growth 2 cm\n" +
-                "tree size: 13\n" +
+                "year 8 - growth 2\n" +
+                "tree size: 13 cm\n" +
                 "\n" +
-                "year 9 growth 2 cm\n" +
-                "tree size: 15\n" +
+                "year 9 - growth 2\n" +
+                "tree size: 15 cm\n" +
                 "\n" +
-                "year 10 growth 2 cm\n" +
-                "tree size: 17", outContent.toString().trim());
+                "year 10 - growth 2\n" +
+                "tree size: 17 cm", outContent.toString().trim());
     }
 }
